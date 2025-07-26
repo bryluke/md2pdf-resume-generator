@@ -251,6 +251,7 @@ $RECYCLE.BIN/
 # Ignore all Markdown files except the main resume file
 *.md
 !sample_resume.md
+!README.md
 # Generated PDF files (but keep sample PDFs for documentation)
 *.pdf
 !sample_resume.pdf
